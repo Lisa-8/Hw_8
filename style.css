@@ -46,6 +46,8 @@
 /* псевдокласи */
 a:link{
     color: purple;
+a:visited{
+    color: blue;
 }
 a:hover {
     color: rgb(186, 12, 157);
